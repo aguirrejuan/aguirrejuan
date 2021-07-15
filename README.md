@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an electronics engineer working on machine learning with a focus on deep learning for artificial vision systems.
+I am an electronic engineer working on machine learning with a focus on deep learning for artificial vision systems.
 
 🔭 I’m currently working on hippocampal segmentation 
 
