@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am an electronics engineer working on machine learning with a focus on deep learning for artificial vision systems.
+
+🔭 I’m currently working on hippocampal segmentation 
+
+![sagital](https://raw.githubusercontent.com/aguirrejuan/hipposeg/master/images/sagital.gif) ![sagital](https://raw.githubusercontent.com/aguirrejuan/hipposeg/master/images/coronal.gif)  ![sagital](https://raw.githubusercontent.com/aguirrejuan/hipposeg/master/images/axial.gif) 
+
+
 <!--
 **aguirrejuan/aguirrejuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
