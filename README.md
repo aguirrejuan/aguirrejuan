@@ -2,13 +2,14 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/juan-aguirre-arango"><img src="https://img.shields.io/badge/-Juan%20Carlos%20Aguirre%20Arango-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jucaguirrear@unal.edu.co"><img src="https://img.shields.io/badge/-jucaguirrear@unal.edu.co-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/jucaguirre"><img src="https://img.shields.io/badge/-@__juan_aguirre__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/aaguirrejuan"><img src="https://img.shields.io/badge/-@aaguirrejuan-0077B5?style=flat-square&logo=Twitter&logoColor=white"/></a>
+<!-- <a href="mailto:jucaguirrear@unal.edu.co"><img src="https://img.shields.io/badge/-jucaguirrear@unal.edu.co-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
+<!-- <a href="https://instagram.com/jucaguirre"><img src="https://img.shields.io/badge/-@__juan_aguirre__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
+<!-- <a href="https://twitter.com/aaguirrejuan"><img src="https://img.shields.io/badge/-@aaguirrejuan-0077B5?style=flat-square&logo=Twitter&logoColor=white"/></a> -->
 </p>
 
-I am an electronic engineer working on machine learning with a focus on deep learning for artificial vision systems. Now, I'm learning tools to become a Machine Learning Engineer. 
+As a data scientist, I am passionate about solving complex problems and creating value from data. I have a master's degree in engineering with a focus on artificial intelligence, where I developed my critical thinking and research skills. I also have multiple certifications in data analysis, SQL, and Git.
 
+My most recent work experience was at Inference SAS, where I contributed to developing computer vision systems based on deep learning to reduce inspection time in sewer operations. I also worked as a data analyst at Universidad Nacional de Colombia, creating dashboards using Looker Studio to evaluate institutional metrics. I have proficiency in Python, TensorFlow, Keras, and computer vision, and knowledge of SQL, Linux, and NLP. I am currently seeking full-time positions in data science or machine learning, where I can apply my skills and learn new ones.
 
 ## 🛠 &nbsp; Technology Experience
 
