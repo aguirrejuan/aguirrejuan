@@ -54,33 +54,7 @@ My most recent work experience was at Inference SAS, where I contributed to deve
 
 ## Projects
 <table align="center">
-  <tr>
-    <td>
-      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
-        <a href="https://github.com/jvech/DeepSort_Yolo">
-          <img src="https://github.com/jvech/DeepSort_Yolo/blob/production/data/empty.jpeg" alt="Person Tracking TradeNet" width="200"/>
-          <br><strong>Person Tracking TradeNet</strong>
-        </a>
-      </div>
-    </td>
-    <td>
-      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
-        <a href="https://github.com/UN-GCPDS/python-gcpds.image_segmentation">
-          <img src="https://gcpds-image-segmentation.readthedocs.io/en/latest/_images/notebooks_02-datasets_9_0.png" alt="Image Segmentation Library" width="200"/>
-          <br><strong>Image Segmentation Library</strong>
-        </a>
-      </div>
-    </td>
-    <td>
-      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
-        <a href="https://github.com/UN-GCPDS/FEET-GUI">
-          <img src="https://github.com/UN-GCPDS/FEET-GUI/blob/master/resources/icon.png" alt="Feet GUI" width="200"/>
-          <br><strong>Feet GUI</strong>
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
+ <tr>
    <td>
       <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
         <a href="https://github.com/optilab-mzl/dataton2023-optilab">
@@ -107,11 +81,46 @@ My most recent work experience was at Inference SAS, where I contributed to deve
     </td>
   </tr>
  <tr>
+  <tr>
+    <td>
+      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
+        <a href="https://github.com/UN-GCPDS/python-gcpds.image_segmentation">
+          <img src="https://gcpds-image-segmentation.readthedocs.io/en/latest/_images/notebooks_02-datasets_9_0.png" alt="Image Segmentation Library" width="200"/>
+          <br><strong>Image Segmentation Library</strong>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
+        <a href="https://github.com/UN-GCPDS/FEET-GUI">
+          <img src="https://github.com/UN-GCPDS/FEET-GUI/blob/master/resources/icon.png" alt="Feet GUI" width="200"/>
+          <br><strong>Feet GUI</strong>
+        </a>
+      </div>
+    </td>
+   <td>
+      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
+        <a href="https://github.com/jvech/DeepSort_Yolo">
+          <img src="https://github.com/jvech/DeepSort_Yolo/blob/production/data/empty.jpeg" alt="Person Tracking TradeNet" width="200"/>
+          <br><strong>Person Tracking TradeNet</strong>
+        </a>
+      </div>
+    </td>
+  </tr>
+ 
 <td>
       <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
         <a href="https://github.com/aguirrejuan/conwaysGameOfLife">
-          <img src="https://github.com/aguirrejuan/conwaysGameOfLife/raw/master/images/animation.gif" alt="Optilab" width="200"/>
+          <img src="./assets/gamelife.png" alt="Game Of Lige" width="200px"/>
           <br><strong>Conway's Game of Life</strong>
+        </a>
+      </div>
+    </td>
+ <td>
+      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
+        <a href="https://github.com/UN-GCPDS/Procesamiento-Digital-De-Imagenes">
+          <img src="https://github.com/UN-GCPDS/Procesamiento-Digital-De-Imagenes/blob/main/2-ConceptosBasicosDeImagenes/Imagenes/circles.png" alt="Curso" width="200px"/>
+          <br><strong>Curso Procesamiento Digital de Imágenes</strong>
         </a>
       </div>
     </td>
