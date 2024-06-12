@@ -97,7 +97,25 @@ My most recent work experience was at Inference SAS, where I contributed to deve
         </a>
       </div>
     </td>
+   <td>
+      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
+        <a href="https://github.com/aguirrejuan/job-recommendation-system">
+          <img src="https://github.com/aguirrejuan/job-recommendation-system/raw/master/assets/system_overview.png" alt="Optilab" width="200"/>
+          <br><strong>Job Recomendation System</strong>
+        </a>
+      </div>
+    </td>
   </tr>
+ <tr>
+<td>
+      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
+        <a href="https://github.com/aguirrejuan/conwaysGameOfLife">
+          <img src="https://github.com/aguirrejuan/conwaysGameOfLife/raw/master/images/animation.gif" alt="Optilab" width="200"/>
+          <br><strong>Conway's Game of Life</strong>
+        </a>
+      </div>
+    </td>
+</tr>
 </table>
 
 
