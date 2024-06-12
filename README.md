@@ -53,11 +53,54 @@ My most recent work experience was at Inference SAS, where I contributed to deve
 
 
 ## Projects
+<table align="center">
+  <tr>
+    <td>
+      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
+        <a href="https://github.com/jvech/DeepSort_Yolo">
+          <img src="https://github.com/jvech/DeepSort_Yolo/blob/production/data/empty.jpeg" alt="Person Tracking TradeNet" width="200"/>
+          <br><strong>Person Tracking TradeNet</strong>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
+        <a href="https://github.com/UN-GCPDS/python-gcpds.image_segmentation">
+          <img src="https://gcpds-image-segmentation.readthedocs.io/en/latest/_images/notebooks_02-datasets_9_0.png" alt="Image Segmentation Library" width="200"/>
+          <br><strong>Image Segmentation Library</strong>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
+        <a href="https://github.com/UN-GCPDS/FEET-GUI">
+          <img src="https://github.com/UN-GCPDS/FEET-GUI/blob/master/resources/icon.png" alt="Feet GUI" width="200"/>
+          <br><strong>Feet GUI</strong>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+   <td>
+      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
+        <a href="https://github.com/optilab-mzl/dataton2023-optilab">
+          <img src="https://github.com/optilab-mzl/dataton2023-optilab/raw/main/assets/logo.png" alt="Optilab" width="200"/>
+          <br><strong>Optilab</strong>
+        </a>
+      </div>
+    </td>
+ <td>
+      <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
+        <a href="https://github.com/AHirigoyen/CountTrees">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2sw3Mewcq8mOXxVV2RjtdE5ZF0ycAIlE3g&s" alt="Optilab" width="200"/>
+          <br><strong>CountTrees</strong>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-[![](https://img.shields.io/badge/-🛰%20Person%20Tracking%20TradeNet-005571?style=for-the-badge)](https://github.com/jvech/DeepSort_Yolo)
-[![](https://img.shields.io/badge/-🔊%20Blog-1296E1?style=for-the-badge)](https://aguirrejuan.github.io/)
-[![](https://img.shields.io/badge/-📚%20Image%20Segmentation%20Library-35BF5C?style=for-the-badge)](https://github.com/UN-GCPDS/python-gcpds.image_segmentation)
-[![](https://img.shields.io/badge/-🧰%20Feet%20GUI-A63E90?style=for-the-badge)](https://github.com/UN-GCPDS/python-gcpds.image_segmentation)
+
 
 
 ## ⚙️ &nbsp;GitHub Analytics
