@@ -7,52 +7,81 @@
 <!-- <a href="https://twitter.com/aaguirrejuan"><img src="https://img.shields.io/badge/-@aaguirrejuan-0077B5?style=flat-square&logo=Twitter&logoColor=white"/></a> -->
 </p>
 
-As a data scientist, I am passionate about solving complex problems and creating value from data. I have a master's degree in engineering with a focus on artificial intelligence, where I developed my critical thinking and research skills. I also have multiple certifications in data analysis, SQL, and Git.
+## 🧠 &nbsp; About Me
 
-My most recent work experience was at Inference SAS, where I contributed to developing computer vision systems based on deep learning to reduce inspection time in sewer operations. I also worked as a data analyst at Universidad Nacional de Colombia, creating dashboards using Looker Studio to evaluate institutional metrics. I have proficiency in Python, TensorFlow, Keras, and computer vision, and knowledge of SQL, Linux, and NLP. I am currently seeking full-time positions in data science or machine learning, where I can apply my skills and learn new ones.
+I'm a **problem solver** who uses programming, ML, and data-driven solutions. I don't limit myself to specific roles or tools—I focus on solving problems and learning whatever is needed along the way.
 
-## 🛠 &nbsp; Technology Experience
+## 💼 &nbsp; Experience
 
+🚀 **Data Scientist @ Rappi** (Payment & Fraud)
+- 🛡️ Reducing document fraud with ML models
+- 👤 Building face anti-spoofing systems
+- 📝 Developing OCR with MRZ technology
+- 🔄 End-to-end ML lifecycle management
+
+🏗️ **Computer Vision Engineer @ Inference SAS**
+- Deep learning for sewer inspection systems
+
+📊 **Data Analyst @ Universidad Nacional de Colombia**
+- Dashboard creation with Looker Studio
+
+🎓 **Education**: Master's in Engineering (AI focus)
+
+## 🛠️ &nbsp; Tech Stack
+
+### 💻 Programming & Data
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Data Analysis](https://img.shields.io/badge/-Data_analysis-informational?style=for-the-badge&logo=GooglePodcasts&logoColor=white&color=FFC98B)
+
+### 🧠 ML & AI
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-informational?style=for-the-badge&logo=AIOHTTP&logoColor=white&color=FFB284)
-![VENV](https://img.shields.io/badge/-🛠%20VENV-3CE32E?style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-informational?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF9B6A)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![wandb](https://img.shields.io/badge/-Weights%20&%20Biases-000?style=for-the-badge&logo=weightsandbiases)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Command Line](https://img.shields.io/badge/-Command_line_interface-informational?style=for-the-badge&logo=windowsterminal&logoColor=white&color=4D4D4D)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-## 👨‍🎓 &nbsp; Currently Learning
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DVC](https://img.shields.io/badge/-DVC-000?style=for-the-badge&logo=dvc)
+![YOLOv11](https://img.shields.io/badge/-YOLOv11-informational?style=for-the-badge&logo=YOLO&logoColor=white&color=00FFFF)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![wandb](https://img.shields.io/badge/-Weights%20&%20Biases-000?style=for-the-badge&logo=weightsandbiases)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+### 📊 Visualization
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### 🚀 MLOps & Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Poetry](https://img.shields.io/badge/-Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
+![VENV](https://img.shields.io/badge/-🛠%20VENV-3CE32E?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![UV](https://img.shields.io/badge/-UV_Astral-informational?style=for-the-badge&logo=python&logoColor=white&color=9B59B6)
+
+### 🔄 Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+### 🏷️ Data Tools
+![Label Studio](https://img.shields.io/badge/-Label_Studio-informational?style=for-the-badge&logo=labelstudio&logoColor=white&color=F47373)
 
 
+### 💻 Dev Environment
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## Projects
+## 📚 &nbsp; Learning
+![DVC](https://img.shields.io/badge/-DVC-000?style=for-the-badge&logo=dvc)
+![LangChain](https://img.shields.io/badge/🦜%20LangChain-25c2a0?style=for-the-badge&logo=langchain&logoColor=white)
+
+
+## 🚀 &nbsp; Projects
 <table align="center">
  <tr>
    <td>
@@ -93,7 +122,7 @@ My most recent work experience was at Inference SAS, where I contributed to deve
     <td>
       <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
         <a href="https://github.com/UN-GCPDS/FEET-GUI">
-          <img src="https://github.com/UN-GCPDS/FEET-GUI/blob/master/resources/icon.png" alt="Feet GUI" width="200"/>
+          <img src="https://github.com/UN-GCPDS/FEET-GUI/blob/master/resources/icon.png?raw=true" alt="Feet GUI" width="200"/>
           <br><strong>Feet GUI</strong>
         </a>
       </div>
@@ -101,7 +130,7 @@ My most recent work experience was at Inference SAS, where I contributed to deve
    <td>
       <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
         <a href="https://github.com/jvech/DeepSort_Yolo">
-          <img src="https://github.com/jvech/DeepSort_Yolo/blob/production/data/empty.jpeg" alt="Person Tracking TradeNet" width="200"/>
+          <img src="https://github.com/jvech/DeepSort_Yolo/blob/production/data/empty.jpeg?raw=true" alt="Person Tracking TradeNet" width="200"/>
           <br><strong>Person Tracking TradeNet</strong>
         </a>
       </div>
@@ -119,7 +148,7 @@ My most recent work experience was at Inference SAS, where I contributed to deve
  <td>
       <div style="margin: 10px; padding: 10px; text-align: center; width: 200px;">
         <a href="https://github.com/UN-GCPDS/Procesamiento-Digital-De-Imagenes">
-          <img src="https://github.com/UN-GCPDS/Procesamiento-Digital-De-Imagenes/blob/main/2-ConceptosBasicosDeImagenes/Imagenes/circles.png" alt="Curso" width="200px"/>
+          <img src="https://github.com/UN-GCPDS/Procesamiento-Digital-De-Imagenes/blob/main/2-ConceptosBasicosDeImagenes/Imagenes/circles.png?raw=true" alt="Curso" width="200px"/>
           <br><strong>Curso Procesamiento Digital de Imágenes</strong>
         </a>
       </div>
@@ -127,16 +156,18 @@ My most recent work experience was at Inference SAS, where I contributed to deve
 </tr>
 </table>
 
+## ⚙️ &nbsp;GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguirrejuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguirrejuan&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aguirrejuan&theme=tokyonight&hide_border=true" />
+</div>
 
 
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/aguirrejuan">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aguirrejuan&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aguirrejuan&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=default"/>
-</a>
-</p>
 
 
